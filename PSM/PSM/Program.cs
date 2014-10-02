@@ -8,8 +8,13 @@ namespace PSM
 {
     class Program
     {
+        public static void world()
+        {
+            Console.WriteLine("Hi, how are you doing");
+        }
         static void Main(string[] args)
         {
+            world();
         }
     }
 }
