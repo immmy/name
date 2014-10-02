@@ -1,0 +1,9 @@
+C:\Users\immy\PSM\PSM\bin\Debug\PSM.exe.config
+C:\Users\immy\PSM\PSM\bin\Debug\PSM.exe
+C:\Users\immy\PSM\PSM\bin\Debug\PSM.pdb
+C:\Users\immy\PSM\PSM\obj\Debug\PSM.csprojResolveAssemblyReference.cache
+C:\Users\immy\PSM\PSM\obj\Debug\PSM.exe
+C:\Users\immy\PSM\PSM\obj\Debug\PSM.pdb
+C:\Users\immy\Test\PSM\PSM\bin\Debug\PSM.exe.config
+C:\Users\immy\Test\PSM\PSM\obj\Debug\PSM.exe
+C:\Users\immy\Test\PSM\PSM\obj\Debug\PSM.pdb
